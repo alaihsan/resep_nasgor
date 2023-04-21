@@ -86,3 +86,19 @@ ul.grid li {
     64%  { transform: scale(1,1)      translateY(0); }
     100% { transform: scale(1,1)      translateY(0); }
 }
+
+a {
+  color: #40E0D0;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00CED1;
+  font-style: italic;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+}
